@@ -1,0 +1,4 @@
+[build]
+  base = "codelabs-homes-app-start"
+  command = "ng build"
+  publish = "dist/homes-app/browser"
